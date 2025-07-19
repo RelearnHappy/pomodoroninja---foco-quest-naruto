@@ -1,6 +1,5 @@
-# Welcome to your Lovable project
-
 ## Project info
+**URL**: https://pomodoroninja.vercel.app/
 
 **URL**: https://lovable.dev/projects/c85a847a-2096-48ca-a56a-4b68cd98532b
 
